@@ -5,4 +5,5 @@ public enum DialoguerDialogues{
 	My_Second_Dialogue = 2,
 	Temp = 3,
 	DupaTestowa = 4,
+	first_encounter = 6,
 }
